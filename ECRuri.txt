@@ -1,0 +1,2 @@
+# ECR URI:
+# 412407129626.dkr.ecr.us-east-1.amazonaws.com/demo1images
